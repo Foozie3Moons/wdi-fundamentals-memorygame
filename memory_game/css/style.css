@@ -1,18 +1,20 @@
 h1 {
   font-family: "Raleway", sans-serif;
-  color: #0D2C40;
+  color: #FFFFFF;
   letter-spacing: 1px;
   font-weight: 400;
   font-size: 45px;
   margin: 0;
+  text-transform: uppercase;
 }
 
 h2 {
   font-family: "Raleway";
-  color: 0D2C40;
+  color: #0D2C40;
   letter-spacing: 1px;
   font-weight: 600;
   font-size: 20px;
+  text-transform: uppercase;
 }
 
 p {
@@ -31,11 +33,20 @@ header {
 
 nav {
   background-color: #00A6B3;
+
   padding: 20px 0;
+  text-decoration: none;
 }
 
 nav a {
+  font-family: "Raleway";
+  color: #FFFFFF;
+  letter-spacing: 1px;
+  font-weight: 600;
+  font-size: 16px;
   margin: 0 20px;
+  text-transform: uppercase;
+  text-decoration: none;
 }
 
 main {
